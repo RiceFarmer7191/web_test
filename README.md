@@ -120,4 +120,8 @@ https://roboticenergyllc.com
 
 Vincent Garreau  - vincentgarreau.com
 
+pictures links: 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.astronomy.com%2Fscience%2Fhow-can-a-black-hole-pull-light-into-itself%2F&psig=AOvVaw2FrBsT0WzxA4Jyvj8UCpqk&ust=1748543553579000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDB4r7mxo0DFQAAAAAdAAAAABAE
+https://www.google.com/imgres?q=black%20hole&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F4f%2FBlack_hole_-_Messier_87_crop_max_res.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBlack_hole&docid=rCUMFwsFkhE4JM&tbnid=od6aD23Y3EWLTM&vet=12ahUKEwiEmeSD5saNAxWRMjQIHeXaHWQQM3oFCIUBEAA..i&w=4320&h=4320&hcb=2&ved=2ahUKEwiEmeSD5saNAxWRMjQIHeXaHWQQM3oFCIUBEAA
+https://www.google.com/imgres?q=black%20hole%20types&imgurl=https%3A%2F%2Flegendary-digital-network-assets.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2021%2F08%2F12214802%2FBlack-Hole-Size-Comparison-feature-image-08042021.jpg&imgrefurl=https%3A%2F%2Fnerdist.com%2Farticle%2Fbiggest-black-holes-size-comparison%2F&docid=IlhRBsBZegjIDM&tbnid=Mnz7ldVw2UvE0M&vet=12ahUKEwjP3MuP6MaNAxW_BTQIHXQMAqYQM3oFCIQBEAA..i&w=1200&h=676&hcb=2&ved=2ahUKEwjP3MuP6MaNAxW_BTQIHXQMAqYQM3oFCIQBEAA
 
