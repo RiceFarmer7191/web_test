@@ -154,5 +154,27 @@ Dark, enigmatic, and endlessly fascinating, black holes are nature’s most powe
     <script src="app.js"></script>
 </body>
 
-</html>
-<iframe src="https://open.spotify.com/track/1qsfrc4AmfSX3cR7kftQya?si=365495e32d004103" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<!-- Spotify embed player -->
+<iframe 
+  src="https://open.spotify.com/track/1qsfrc4AmfSX3cR7kftQya?si=3df98097e85a4d2b" 
+  width="300" height="80" frameborder="0" 
+  allowtransparency="true" allow="encrypted-media">
+</iframe>
+
+<!-- Background music with autoplay & loop -->
+<audio id="bgMusic" autoplay loop muted>
+  <source src="./assets/background-music.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<script>
+  // Unmute and play background music on first user interaction (click)
+  document.body.addEventListener('click', () => {
+    const music = document.getElementById('bgMusic');
+    if (music.muted) {
+      music.muted = false;
+      music.play();
+    }
+  }, { once: true });
+</script>
+</script>
