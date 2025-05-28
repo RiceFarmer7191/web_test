@@ -154,21 +154,13 @@ Dark, enigmatic, and endlessly fascinating, black holes are nature’s most powe
     <script src="app.js"></script>
 </body>
 
-<!-- Spotify embed player -->
-<iframe 
-  src="https://open.spotify.com/track/1qsfrc4AmfSX3cR7kftQya?si=3df98097e85a4d2b" 
-  width="300" height="80" frameborder="0" 
-  allowtransparency="true" allow="encrypted-media">
-</iframe>
-
-<!-- Background music with autoplay & loop -->
 <audio id="bgMusic" autoplay loop muted>
-  <source src="./assets/background-music.mp3" type="audio/mpeg">
+  <source src="C:\Users\defin\Downloads\ambient-soundscapes-007-space-atmosphere-304974.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
 <script>
-  // Unmute and play background music on first user interaction (click)
+  // When user clicks anywhere, unmute and play the music
   document.body.addEventListener('click', () => {
     const music = document.getElementById('bgMusic');
     if (music.muted) {
@@ -176,5 +168,4 @@ Dark, enigmatic, and endlessly fascinating, black holes are nature’s most powe
       music.play();
     }
   }, { once: true });
-</script>
 </script>
