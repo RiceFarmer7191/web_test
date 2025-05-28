@@ -110,6 +110,8 @@ https://www.youtube.com/watch?v=e-P5IFTqB98
 www.youtube.com/watch?feature=shared%2F&v=uD4izuDMUQA
 https://www.youtube.com/watch?v=GQZ3R81iyE0
 
+articles: https://ricefarmer7191.github.io/web_test/assets/NASA_Science.pdf
+
 Code reference:
 
 https://github.com/ndoherty-xyz/unemployables-portfolio-template
